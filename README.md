@@ -1,4 +1,4 @@
-# Project-Shopping_Cart_Analysis
+# Shopping cart analysis with PostgreSQL
 
 Data analysis of an e-commerce consists in accumulating data from an online store, extracting trends and key informations, and communicating results. Such kind of study is of prior importance to help decision-makers to improve and develop the store.
 
